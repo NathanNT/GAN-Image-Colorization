@@ -19,7 +19,7 @@ pip install -r requirements.txt
 You need to download the Linnaeus 5 dataset in 64x64 and structure it as follows:
 - Organize the images in `test/dog` and `train/dog` directories within the project folder.
 
-You can find the Linnaeus 5 dataset at [Linnaeus 5 Dataset](https://www.linnaeus5.com/download.php) or an alternative source. Ensure to adhere to the dataset's terms of use.
+You can find the Linnaeus 5 dataset at [Linnaeus 5 Dataset](http://chaladze.com/l5/) or an alternative source. Ensure to adhere to the dataset's terms of use.
 
 ## Running the Application
 Execute the main script `app.py` to start the training and colorization process:
