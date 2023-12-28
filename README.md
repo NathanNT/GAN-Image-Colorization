@@ -10,8 +10,8 @@ This project uses a deep learning model to colorize black and white images. It l
 ## Installation
 Clone this repository and install the required Python packages:
 ```bash
-git clone [Your Repository URL]
-cd [Your Repository Name]
+git clone https://github.com/NathanNT/GAN-Image-Colorization
+cd GAN-Image-Colorization
 pip install -r requirements.txt
 ```
 
