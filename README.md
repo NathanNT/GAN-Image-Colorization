@@ -1,7 +1,7 @@
-#  GAN-Image-Colorization
+#  UNET-Image-Colorization
 
 ## Overview
-This project uses a deep learning model to colorize black and white images. It leverages a U-Net architecture and is particularly focused on colorizing images of dogs. The model is trained and tested using the Linnaeus 5 dataset.
+This project uses a deep learning model to colorize black and white images. It use a U-Net architecture and is particularly focused on colorizing images of dogs. The model is trained and tested using the Linnaeus 5 dataset.
 
 ## Prerequisites
 - Python 3.x
